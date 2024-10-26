@@ -1,19 +1,7 @@
 div {
   font-size: 35px;
-  text-align: center;
 }
 
 .divOne {
-  color: red;
-  background-color: yellow;
-}
-
-.divTwo {
-  color: blue;
-  background-color: green;
-}
-
-.divThree {
-  color: green;
-  background-color: red;
+  background-color: #ff0000;
 }

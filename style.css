@@ -2,7 +2,20 @@ div {
   font-size: 20px;
 }
 
-.information {
+
+
+.introduction {
   background-color: cyan;
-  text-align: center
+  text-align: center;
+}
+
+.interests {
+  background-color: lightgreen;
+  text-align: center;
+}
+
+
+.ending {
+  text-align: center;
+  font-size: 30px
 }

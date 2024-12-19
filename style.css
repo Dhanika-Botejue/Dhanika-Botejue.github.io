@@ -1,16 +1,8 @@
 div {
-  font-size: 40px;
+  font-size: 20px;
 }
 
-.divOne {
-  background-color: #ff0000;
+.information {
+  background-color: cyan;
   text-align: center
-}
-
-.divTwo {
-  background-color: green
-}
-
-.divThree {
-  background-color: yellow
 }

@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+html {
+  scroll-padding-top: 56px; /* Offset for sticky navbar height */
+}
+
 .navbar {
   background: #222e50;
   padding: 0.5rem 0;
@@ -113,23 +117,3 @@ a:hover {
     margin: 0.5rem 0;
   }
 }
-
-.introduction {
-  text-align: center;
-}
-
-.interests {
-  background-color: lightgreen;
-  text-align: center;
-}
-
-.interests_pic {
-  background-color: lightgreen;
-  text-align: center;
-}
-
-.ending {
-  text-align: center;
-  font-size: 30px;
-}
-

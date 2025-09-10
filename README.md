@@ -1,3 +1,3 @@
-Personal Website / Resume on Github
+OUTDATED Personal Website / Resume on Github
 
-Will soon upgrade to a more fancy website
+Upgraded and fancier website/portfolio is [HERE](https://dhanikabotejue.vercel.app/)!

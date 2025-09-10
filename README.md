@@ -1,3 +1,3 @@
-OUTDATED Personal Website / Resume on Github
+**OUTDATED** -- Personal Website / Resume on Github -- **OUTDATED**
 
-Upgraded and fancier website/portfolio is [HERE](https://dhanikabotejue.vercel.app/)!
+Upgraded and fancier website/portfolio is [**HERE**](https://dhanikabotejue.vercel.app/)!
